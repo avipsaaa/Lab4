@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 4 Challenge</string>
+    <string name="buttonText_one">Click here for text one!</string>
+    <string name="buttonText_two">Click here for text two!</string>
+    <string name="buttonText_three">Click here for text three!</string>
+    <string name="displayText_one">Life is not always beautiful. That was a lesson that Dan was learning. He also realized that life was not easy. This had come as a shock since he had lived a charmed life. He hated that this was the truth and he struggled to be happy knowing that his assumptions were not correct. He would not realize until much later in life that the difficult obstacles he was facing that were taking away the beauty in his life at this moment would ultimately make his life much more beautiful. All he knew was that at this moment was that life is not always beautiful.</string>
+    <string name="displayText_two">Hopes and dreams were dashed that day. It should have been expected, but it still came as a shock. The warning signs had been ignored in favor of the possibility, however remote, that it could actually happen. That possibility had grown from hope to an undeniable belief it must be destiny. That was until it was not and the hopes and dreams came crashing down.</string>
+    <string name="displayText_three">They rushed out the door, grabbing anything and everything they could think of they might need. There was no time to double-check to make sure they were not leaving something important behind. Everything was thrown into the car and they sped off. Thirty minutes later they were safe and that was when it dawned on them that they had forgotten the most important thing of all.</string>
+</resources>
